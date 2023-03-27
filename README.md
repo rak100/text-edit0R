@@ -29,7 +29,7 @@
     ![service-worker](./client/src/images/service_worker.png)
  
 
-  💻  Heroku: [heroku](https://shrouded-temple-29555.herokuapp.com/) 
+  💻  Heroku: [heroku](https://text-editor-rana.herokuapp.com/) 
 
  ## License 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
